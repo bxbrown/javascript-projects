@@ -19,7 +19,7 @@ console.log(typeof 0.621);
 let milesToMars = kilometersToMars * milesPerKilometer;
 let hoursToMars = milesToMars / shuttleSpeedMph;
 let daysToMars = hoursToMars / 24;
-let milesToMoon = kilometersToMoon * milesPerKilometer;
+let milesToMoon = kilometersToMoon * milesPerKilometer;`    `
 let hoursToMoon = milesToMoon / shuttleSpeedMph;
 let daysToMoon = hoursToMoon / 24;
 
